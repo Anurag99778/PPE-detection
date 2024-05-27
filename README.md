@@ -2,6 +2,11 @@
 
 This project is designed to detect whether a person is wearing a PPE kit or not using a trained YOLOv8 model. The model has been trained on a dataset of images and can be used to identify various components of a PPE kit in real-time. DataSet of the Image is Obtained from RoboFlow Universe 
 
+## Demo
+
+[![Poker Hand Detection Video](https://img.youtube.com/vi/2fhadeiZ1aw/0.jpg)](https://youtu.be/2fhadeiZ1aw?si=KHZQEypmAVf34BX5)
+
+
 ## Table of Contents
 - [Installation](#installation)
 - [Training the Model](#training-the-model)
