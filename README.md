@@ -1,22 +1,19 @@
 # Personal Protective Equipment (PPE) Detector
 
-This project is designed to detect whether a person is wearing a PPE kit or not using a trained YOLOv8 model. The model has been trained on a dataset of images and can be used to identify various components of a PPE kit in real-time.
+This project is designed to detect whether a person is wearing a PPE kit or not using a trained YOLOv8 model. The model has been trained on a dataset of images and can be used to identify various components of a PPE kit in real-time. DataSet of the Image is Obtained from RoboFlow Universe 
 
 ## Table of Contents
 - [Installation](#installation)
 - [Training the Model](#training-the-model)
 - [Usage](#usage)
 - [Files](#files)
-- [Project Structure](#project-structure)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
-- [Contact](#contact)
+
 
 ## Installation
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/ppe-detector.git
+    git clone https://github.com/Anurag99778/PPE-detection.git
     cd ppe-detector
     ```
 
